@@ -15,15 +15,13 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
 #### 概念
 
 - 面向对象的三大基本特征、五大基本原则
-- 面向过程、面向对象、基于对象和继承、派生、多态：http://www.i3geek.com/archives/580
-- 编程思想，幻数：http://www.i3geek.com/archives/622
+- 面向过程、面向对象、基于对象和继承、派生、多态
+- 编程思想，幻数
 
 #### 集合类：
 
-	http://www.i3geek.com/archives/616
-	http://www.i3geek.com/archives/1233
  
-- HashMap实现原理,源码阅读 http://www.i3geek.com/archives/1262
+- HashMap实现原理,源码阅读
 - HashMap中Key的约束
 - HashMap与HashTable的区别
 - HashMap与HashSet的关系:http://www.importnew.com/6931.html hashSet是由hashmap实现的
@@ -174,7 +172,7 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
 
 ### 排序
 
-- 各种排序算法时间、空间复杂度和稳定性：http://www.i3geek.com/archives/733
+- 各种排序算法时间、空间复杂度和稳定性：
 - 列举所有的排序算法，深入理解分析
 - 实现链表排序的一种算法
 - 字符串(单链表)逆序
@@ -192,37 +190,37 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
 ## 数据结构
 
 - 队列、栈、链表、树、堆、图
-- 栈：http://www.i3geek.com/archives/7
-- 队列：http://www.i3geek.com/archives/21
-- 有序表：http://www.i3geek.com/archives/48
-- 链式队列：http://www.i3geek.com/archives/46
-- 链式结构：http://www.i3geek.com/archives/52
-- 链式栈：http://www.i3geek.com/archives/50
-- 链式表：http://www.i3geek.com/archives/57
-- 链表中的环：http://www.i3geek.com/archives/731
-- 堆：http://www.i3geek.com/archives/682
+- 栈
+- 队列
+- 有序表
+- 链式队列
+- 链式结构
+- 链式栈
+- 链式表
+- 链表中的环
+- 堆
 - 栈和队列的相同和不同之处
 - 栈通常采用的两种存储结构
-- 各种树(平衡树,排序树,B树,B+树,R树,多路树,红黑树)树，多路树，B树：http://www.i3geek.com/archives/711
-- 二叉树：http://www.i3geek.com/archives/702
-- 二叉树的遍历实现：http://www.i3geek.com/archives/794
+- 各种树(平衡树,排序树,B树,B+树,R树,多路树,红黑树)树，多路树，B树
+- 二叉树
+- 二叉树的遍历实现：
 - ArrayList,Vector, LinkedList的存储性能和特性
 
 ## 计算机网络
 
-- ip,tcp,udp,tcp/ip区别：http://www.i3geek.com/archives/1209
+- ip,tcp,udp,tcp/ip区别
 - 三次握手，四次关闭（为什么三次开始却要四次关闭），丢包,粘包，容量控制，拥塞控制
-- HTTP请求和响应的全过程，和tcp/ip的关系：http://www.i3geek.com/archives/1213
+- HTTP请求和响应的全过程，和tcp/ip的关系
 - HTTP的返回码 2xx 3xx 4xx 5xx
 - osi七层模型以及tcp/ip四层模型(每一层主要功能,传输的内容,主要协议,主要应用)
 - 网划分
-- session和cookie的区别:http://www.importnew.com/18943.html#comment-491318
+- session和cookie的区别
 - HTTP请求中Session实现原理(利用cookie）
 - 如果客户端禁止Cookie能实现Session，cookie对session的影响
-- http的get和post区别：http://www.i3geek.com/archives/182
-- UDP穿透简要说明P2P：http://www.i3geek.com/archives/574
-- HTTP的幂等性：http://www.i3geek.com/archives/841
-- 正向代理、反向代理、透明代理以及cdn：http://www.i3geek.com/archives/1067
+- http的get和post区别
+- UDP穿透简要说明P2P
+- HTTP的幂等性
+- 正向代理、反向代理、透明代理
 
 ## 数据库
 
