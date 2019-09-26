@@ -181,10 +181,10 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
 
 - 深度优先搜索和广度优先搜索
 - 使用栈实现链表/使用链表实现栈
-- 二分查找：http://www.i3geek.com/archives/54
-- KMP算法思想：http://www.i3geek.com/archives/755
-- 随机函数过大：http://www.i3geek.com/archives/832
-- 洗牌算法：http://www.i3geek.com/archives/1055
+- 二分查找
+- KMP算法思想
+- 随机函数过大
+- 洗牌算法
 - 全排列、贪心算法、hash算法、海量数据处理
 
 ## 数据结构
